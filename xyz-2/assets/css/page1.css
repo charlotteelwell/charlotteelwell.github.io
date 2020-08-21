@@ -1,0 +1,38 @@
+.cat {
+	font-size: 120px;
+	display:inline;
+	font-family: futura;
+	color:springgreen;
+	font-weight:bold;
+}
+
+span {
+	font-family: optima;
+	font-style: italic;
+	color: springgreen;
+	font-size: 135px;
+}
+
+.rooster {
+    font-size: 150px;
+	display:inline;
+	font-family: futura;
+}
+
+.otter {
+	font-size: 150px;
+	display:inline;
+	font-family: futura;
+
+}
+
+.block {
+	font-size:40px;
+	font-family: optima;
+	font-style: italic;
+	color: orange;
+	position: fixed;
+	bottom: 160px;
+	right:4px;
+	background:lavender;
+}
