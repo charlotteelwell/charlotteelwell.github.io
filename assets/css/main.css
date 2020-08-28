@@ -1,0 +1,78 @@
+
+.name {
+	width:700px;
+	height: 150px;
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 154px;
+  color: darkseagreen;
+}
+
+.commdes {
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 50px;
+  margin-left: 1575px;
+  color: royalblue;
+  text-align: right;
+}
+
+.dpub {
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 50px;
+  margin-left: 1660px;
+   text-align: right;
+
+}
+
+.project1 {
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 50px;
+  margin-left: 1575px;
+   text-align: right;
+}
+
+.project2 {
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 50px;
+  margin-left: 1575px;
+   text-align: right;
+}
+
+.insta {
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 50px;
+  margin-left: 1370px;
+   text-align: right;
+}
+
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: royalblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightcyan;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+</style>
+
