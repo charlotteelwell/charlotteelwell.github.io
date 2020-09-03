@@ -50,7 +50,10 @@
    text-align: right;
 }
 
-<style>
+a {
+  text-decoration: none;
+}
+
 a:link {
   color: green;
   background-color: transparent;
@@ -74,5 +77,4 @@ a:active {
   background-color: transparent;
   text-decoration: none;
 }
-</style>
 
