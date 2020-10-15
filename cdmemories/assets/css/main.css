@@ -1,0 +1,157 @@
+body {
+	font-family: courier,sans-serif;
+	font-size: 20px;
+	background-color: black;
+	color: white
+}
+
+a {
+	color:deeppink;
+	margin-top: 10vh;
+	margin-left: 3vh;
+	font-size: 7vh;	
+	letter-spacing: -0.07cm;
+	word-spacing: -0.20cm;
+}
+
+.intro {
+	margin-top: 10vh;
+	text-align: center;
+	font-size: 6vh;
+	font-family: courier;
+}
+
+.container {
+	display: flex;
+	flex-wrap:wrap;
+	align-items:flex-end;
+}
+
+.memories {
+	margin-top: 6vh;
+	text-align: center;
+	font-size: 3vh;
+	font-family: courier;
+}
+
+/* buttons */
+
+.nav {
+	font-size: 32px;
+	flex-wrap:wrap;
+	position: fixed;
+	margin-top: 20px;
+	margin-left: 177vh;
+	width:10%;
+	flex-direction: column
+}
+
+.btn {
+	border-radius: 10px;
+	padding: 6px;
+	margin-top: 25px;
+}
+
+.btn:hover {
+	background-color: black;
+	color:deeppink;
+	cursor: pointer;
+}
+
+/* buttons end */
+
+
+/* images style */
+
+.item {
+	width:33.333%;
+	padding:30px;
+}
+
+.item img {
+	max-width:100%;
+	display:block;
+}
+
+.item.small {
+	width: 33.333%;
+}
+
+.item.hide {
+	display: none;
+}
+
+/* images style end */
+
+.cdbox img {
+	width: 30%;
+	margin-top: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+}
+
+.cdbox img:hover {
+	width: 40%;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* iphone */
+@media (max-width: 500px) {
+
+/* cd page */
+	a {
+		margin-left: 25px;
+		font-size: 4vh;
+	}
+
+	.item.small {
+		width: 100%;
+	}
+
+	.nav {
+		margin-left: 297px;
+		margin-top: 30px;
+		font-size: 22px;
+	}
+
+	.btn {
+		padding:1px;
+	}
+
+/* cd page end*/
+
+/* landing page */
+
+	.cdbox img {
+		width: 80%;
+		margin-top: 60px;
+		margin-left: auto;
+		margin-right: auto;
+		display:block;
+	}
+
+	.cdbox img:hover {
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+		display:block; 
+}
+
+	.intro {
+		margin-top: 20vh;
+		text-align: center;
+		font-size: 4vh;
+		font-family: courier;
+}
+
+}
+
+
+
+
+
+
+
