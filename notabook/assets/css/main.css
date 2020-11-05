@@ -1,0 +1,130 @@
+body {
+	background-color:aliceblue;
+	color: cornflowerblue;
+	font-size: 40px;
+}
+
+h1 {
+	font-size: 4vw;
+	line-height: 6vw;
+	letter-spacing: 1px;
+	text-align: center;
+	margin-top: 3vw;
+	font-family: halyard-micro, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+}
+
+
+h2 {
+	font-family: halyard-micro, sans-serif;
+	font-size: 5vw;
+	margin-top: 1vw; 
+	text-align: center;
+	line-height: 6vw; 
+	color: navy;
+}
+
+.text h2 {
+	font-size: 3vw;
+	margin-top: 1vw; 
+	text-align: center;
+	line-height: 4vw; 
+	color: cornflowerblue;
+}
+
+h3 {
+	font-family: halyard-micro, sans-serif;
+	font-size: 2vw; 
+	text-align: center;
+	line-height: 3vw; 
+	font-style: italic;
+}
+
+p {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150px;
+	margin-bottom: 200px;
+}
+
+.intro p {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+	margin-bottom: 200px;
+	background-color: black;
+	color: white;
+}
+
+.img2 img {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 4vw;
+	width: 40%;
+}
+
+.img3 img {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 4vw;
+	width: 80%;
+}
+
+.img4 img {
+	margin-top: 2vw;
+	width: 90%;
+}
+
+.q1 h2 {
+	width: 50%;
+	font-size: 4vw;
+	line-height: 4vw;
+	text-align: left;
+	font-style: normal;
+	margin-top: 5vw;
+	padding-left: 4vw;
+}
+
+.q2 h2 {
+	width: 50%;
+	font-size: 4vw;
+	line-height: 4vw;
+	text-align: left;
+	font-style: normal;
+	margin-top: 5vw;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.question1 p {
+	font-size: 1vw;
+	line-height: 2vw;
+	text-align: left;
+	margin-right: 4vw;
+	margin-top: 3vw;
+	width: 45%;
+	background-color: none;
+	color: darkblue;
+	font-style: normal;
+}
+
+.question2 p {
+	font-size: 1vw;
+	line-height: 2vw;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3vw;
+	width: 50%;
+	background-color: none;
+	color: darkblue;
+	font-style: normal;
+}
+
+.img5 img {
+	margin-top: 1vw;
+	width: 70%;
+}

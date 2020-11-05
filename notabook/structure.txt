@@ -1,0 +1,47 @@
+landing page
+  h1 page title
+
+  h2 title
+  description
+
+  h2 title
+  article title 
+  description
+
+
+  1st article
+  nav: current page, next article
+
+  h2 page title
+-----------------
+LALEH KHORRAMIAN: 
+On knowing when to take a break
+-----------------
+
+  h2 artist info
+-----------------
+ Born in Tehran, Iran, Laleh Khorramian is a visual artist and designer who lives and works in upstate New York. In her art practice she uses animation, digital media, and sampled audio supplements with collages, mono-types, and drawings. Khorramian approaches her work as a series of experiments with the process of chance as a starting point for discovering possibilities of the unknown.
+
+Laleh Khorramian is showing her work at this year’s Basilica Soundscape.
+----------------- 
+  image 
+
+  h3 question title 
+----------------- 
+Why did you decide to leave NYC and to move upstate?
+----------------- 
+
+  p body text
+-----------------
+It was a long time coming. The last two of my 10 years in New York was a residency in Vienna, Austria, so there was a time of not really feeling like New York was the place for me—but I had a career, and things were rolling along, so there wasn’t a reason to get up and move. There wasn’t an invitation to leave.
+
+The recession had happened while I was abroad, and so I came back to things being very different economically. It was a number of things. I no longer had my New York gallery. I was finding myself unable to afford living there. I had a relationship end, I had been in Europe for two years… It’s completely different, and I just didn’t want to be back in New York by any means. Just everything pointed to, “Time to go. This is not the place I want to be, nor can I afford to be here anymore.”
+
+I remember I had a solo booth at Statements in Switzerland, and for a year I worked on that work. But somehow things felt off. I wasn’t connected to what I was doing. It was after that show that I said, “If this show doesn’t go in a certain way, I’m going to stop for a while.” That’s what happened. It just felt like there was something I needed to recover somehow in order to move forward.
+
+I ended up going to a place that was a friend’s farm. They said, “Come here. Just heal. Get out of the city.” I honestly never saw myself going back. For me, it was a permanent move to begin with. I wasn’t thinking, “Oh, how can I stay? Am I going to be able to live out of the city?” I was pretty dead set on never going back. At that time, I’d opted out of making “art” for a bit. I made a complete change. I said, “I don’t want to make art for a while. I want to leave the city. I want to de-complicate my life of needing a studio.” I was in the process of trying to do a science fiction movie that needed funding, and I decided, “I don’t want all that. I want to simplify.”
+-----------------
+
+
+
+
