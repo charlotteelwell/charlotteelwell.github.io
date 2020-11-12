@@ -5,21 +5,25 @@ body {
 }
 
 h1 {
-	font-size: 4vw;
+	font-size: 5vw;
 	line-height: 6vw;
 	letter-spacing: 1px;
-	text-align: center;
-	margin-top: 3vw;
+	text-align: left;
+	margin-top: 10vw;
+	margin-left: 10vw;
 	font-family: halyard-micro, sans-serif;
 	font-weight: 600;
 	font-style: normal;
 }
 
+.header h1 {
+	font-size: 8vw;
+}
 
 h2 {
 	font-family: halyard-micro, sans-serif;
-	font-size: 5vw;
-	margin-top: 1vw; 
+	font-size: 7.5vw;
+	margin-top: 7vw; 
 	text-align: center;
 	line-height: 6vw; 
 	color: navy;
@@ -37,6 +41,16 @@ h3 {
 	font-family: halyard-micro, sans-serif;
 	font-size: 2vw; 
 	text-align: center;
+	margin-top: 4vw;
+	line-height: 3vw; 
+	font-style: italic;
+}
+
+.intro h3 {
+	font-family: halyard-micro, sans-serif;
+	font-size: 2vw; 
+	text-align: center;
+	margin-top: 1vw;
 	line-height: 3vw; 
 	font-style: italic;
 }
@@ -47,6 +61,27 @@ p {
 	margin-right: auto;
 	margin-top: 150px;
 	margin-bottom: 200px;
+}
+
+.content p {
+	width: 100%;
+	margin-left: 0px;
+	line-height: 2vw; 
+	font-size: 1.5vw; 
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-family: halyard-micro, sans-serif;
+	color: cornflowerblue;
+}
+
+.content h3 {
+	font-family: halyard-micro, sans-serif;
+	font-size: 2.5vw; 
+	text-align: left;
+	margin-top: 1vw;
+	line-height: 3vw; 
+	font-style: italic;
+	color: white;
 }
 
 a {
@@ -66,6 +101,20 @@ a {
 	border: 1px solid black;
 	padding: 20px;
 }
+
+.intro2 p {
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 155px;
+	margin-bottom: 200px;
+	background-color: white;
+	color: black;
+	border-radius: 20px;
+	border: 1px solid black;
+	padding: 20px;
+}
+
 
 .img2 img {
 	margin-left: auto;
@@ -135,4 +184,91 @@ a {
 .img5 img {
 	margin-top: 1vw;
 	width: 70%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f1f1f1;
+  padding: 20px;
+  font-family: Arial;
+}
+
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.row {
+  margin: 8px -16px;
+  padding: 20px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 30px;
+}
+
+.content {
+  background-color: navy;
+  padding: 10px;
+}
+
+img {
+ 	filter: grayscale(100%);
+}
+
+img:hover {
+	-webkit-filter: grayscale(0%);
+ 	filter: grayscale(0%);
+}
+
+.a21 h2 {
+	width: 70%;
+	font-size: 2.5vw;
+	line-height: 3.5vw;
+	text-align: left;
+	font-style: normal;
+	margin-top: 260px;
+	padding-left: 4vw;
+}
+
+.quote h2 {
+	font-size: 5vw;
+	margin-top: 9vw; 
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 6vw; 
+	width: 80%;
+	color: navy;
+	text-transform: uppercase;
+}
+
+.text1 p {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	font-size: 1vw;
+	line-height: 2vw;
+	margin-top: 150px;
+	margin-bottom: 140px;
+}
+
+.survey h2 {
+	text-align: left;
+	padding-left: 5vw;
+	font-style: normal;
+	font-size: 7vw;
+}
+
+.btn h2 {
+	margin-left: 1px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	text-align: left;
+
 }
