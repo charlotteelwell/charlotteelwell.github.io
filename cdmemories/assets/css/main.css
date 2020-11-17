@@ -7,18 +7,23 @@ body {
 
 a {
 	color:deeppink;
-	margin-top: 10vh;
+	font-family: lores-21-serif, sans-serif;
+	font-style: normal;
+	margin-top: 20vh;
+	margin-bottom: 20vh;
 	margin-left: 3vh;
-	font-size: 7vh;	
+	font-size: 10vh;	
 	letter-spacing: -0.07cm;
 	word-spacing: -0.20cm;
 }
 
-.intro {
+.intro h1 {
 	margin-top: 10vh;
 	text-align: center;
-	font-size: 6vh;
-	font-family: courier;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 8vh;
+	font-family: lores-21-serif, sans-serif;
 }
 
 .container {
@@ -31,7 +36,7 @@ a {
 	margin-top: 6vh;
 	text-align: center;
 	font-size: 3vh;
-	font-family: courier;
+	font-family: lores-21-serif, sans-serif;
 }
 
 /* buttons */
@@ -81,6 +86,7 @@ a {
 	display: none;
 }
 
+
 /* images style end */
 
 .cdbox img {
@@ -96,7 +102,7 @@ a {
 	margin-top: 20px;
 	margin-left: auto;
 	margin-right: auto;
-}
+} 
 
 /* iphone */
 @media (max-width: 500px) {
@@ -146,10 +152,6 @@ a {
 		font-size: 4vh;
 		font-family: courier;
 }
-
-}
-
-
 
 
 

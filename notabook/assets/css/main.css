@@ -25,7 +25,7 @@ h2 {
 	font-size: 7.5vw;
 	margin-top: 7vw; 
 	text-align: center;
-	line-height: 6vw; 
+	line-height: 7vw; 
 	color: navy;
 }
 
@@ -186,6 +186,11 @@ a {
 	width: 70%;
 }
 
+.img10 img {
+	width: 50%;
+	border-radius: 30px;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -219,6 +224,7 @@ body {
 
 img {
  	filter: grayscale(100%);
+ 	border-radius: 30px;
 }
 
 img:hover {
@@ -270,5 +276,37 @@ img:hover {
 	margin-top: 1px;
 	margin-bottom: 1px;
 	text-align: left;
+}
 
+.footer div {
+	width: 33.33%;
+	border-top: 2px;
+}
+
+.footer {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.int3 h2 {
+	font-size: 4vw;
+	line-height: 5vw;
+	text-transform: uppercase;
+	width: 50%;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 12vw;
+}
+
+.indent3 h2 {
+	font-size: 3vw;
+	margin-left: 3vw;
+	text-align: left;
+	line-height: 2vw;
+}
+
+.text1 p {
+	margin-top: 5vw;
+	margin-bottom: 4vw;
 }
