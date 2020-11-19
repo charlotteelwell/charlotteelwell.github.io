@@ -9,6 +9,7 @@ a {
 	color:deeppink;
 	font-family: lores-21-serif, sans-serif;
 	font-style: normal;
+	text-align: right;
 	margin-top: 20vh;
 	margin-bottom: 20vh;
 	margin-left: 3vh;
@@ -42,26 +43,21 @@ a {
 /* buttons */
 
 .nav {
-	font-size: 32px;
-	flex-wrap:wrap;
-	position: fixed;
-	margin-top: 20px;
-	margin-left: 177vh;
-	width:10%;
-	flex-direction: column
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+
 }
 
 .btn {
-	border-radius: 10px;
-	padding: 2px;
-	margin-top: 25px;
-	margin-right: 10vh;
+	width: 50px;
+  	height: 50px;
+  	font-size: 3vh;
+  	margin-left: auto;
 }
 
 .btn:hover {
-	background-color: black;
-	color:deeppink;
-	cursor: pointer;
+	
 }
 
 /* buttons end */
