@@ -129,6 +129,10 @@ a {
 
 	.btn {
 		padding:1px;
+		width: 12%;
+		font-size: 5vw;
+		line-height: 1vh;
+		height: 35px;
 	}
 
 /* cd page end*/
