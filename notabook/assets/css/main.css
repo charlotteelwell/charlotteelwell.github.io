@@ -166,6 +166,7 @@ a {
 	background-color: none;
 	color: darkblue;
 	font-style: normal;
+	margin-bottom: 2vw;
 }
 
 .question2 p {
@@ -371,6 +372,36 @@ h4 {
 	flex-direction: column;
 	align-items: center;
 	margin-bottom: 10vw;
+}
+
+
+/* iphone */
+@media (max-width: 500px) {
+ 
+
+.column {
+  	float: left;
+  	width: 100%;
+  	padding: 30px;
+}
+
+.content p {
+	font-size: 3vw;
+	line-height: 4vw;
+	margin-top: 2vw;
+	margin-bottom: 1vw;
+}
+
+.content h3 {
+	font-size: 4vw;
+}
+
+h2 {
+	font-size: 8vw;
+	line-height: 9vw;
+}
+
+
 }
 
 
