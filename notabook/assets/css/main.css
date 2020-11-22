@@ -445,15 +445,46 @@ h3 {
 	font-size: 2.5vw;
 	line-height: 3vw;
 	width: 60%;
-	margin-top: 5vh;
+	margin-top: 1vh;
+	margin-bottom: 6vw;
 }
 
 .img5 img {
-	width: 80%;
+	width: 90%;
 }
 
 h4 {
 	margin-top: 6vh;
+}
+
+.a21 h2 {
+	margin-top: 8vw;
+}
+
+.text1 p {
+	font-size: 2.5vw;
+	line-height: 3vw;
+}
+
+.survey h2 {
+	margin-top: 8vw;
+	line-height: 8vw;
+	font-size: 8vw;
+}
+
+.answer h2 {
+	font-size: 5vw;
+	line-height: 3vw;
+	margin-top: 3vw;
+	margin-bottom: 10vw;
+}
+
+.question2a p {
+	font-size: 2.5vw;
+	line-height: 3vw;
+	width: 45%;
+	margin-top: 1vh;
+	margin-bottom: 6vw;
 }
 
 }
