@@ -59,8 +59,8 @@ p {
 	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 50px;
-	margin-bottom: 180px;
+	margin-top: 4vw;
+	margin-bottom: 8vw;
 }
 
 .content p {
@@ -188,7 +188,7 @@ a {
 }
 
 .img5 img {
-	margin-top: 1vw;
+	margin-top: 6vw;
 	width: 70%;
 }
 
@@ -244,7 +244,7 @@ img:hover {
 	line-height: 3.5vw;
 	text-align: left;
 	font-style: normal;
-	margin-top: 260px;
+	margin-top: 15vh;
 	padding-left: 4vw;
 }
 
@@ -286,6 +286,7 @@ img:hover {
 	padding-left: 5vw;
 	font-style: normal;
 	font-size: 7vw;
+	margin-top: 9vh;
 }
 
 .answer h2 {
@@ -294,6 +295,7 @@ img:hover {
 	font-style: normal;
 	font-size: 3vw;
 	margin-top: 1vw;
+	line-height: 8vh;
 }
 
 .btn h2 {
@@ -321,7 +323,7 @@ img:hover {
 	text-align: left;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 12vw;
+	margin-top: 6vw;
 }
 
 .indent3 h2 {
@@ -350,7 +352,7 @@ img:hover {
   	left: 0;
   	bottom: 0;
   	width: 100%;
-  	height: 25vh;
+  	height: 15vh;
   	background-color: navy;
   	color: white;
   	text-align: right;
@@ -359,7 +361,7 @@ img:hover {
 h4 {
 	width: 100%;
 	margin-right: 5vh;
-	margin-top: 9vh;
+	margin-top: 5vh;
 	margin-bottom: 0px;
 	color: white;
 }
