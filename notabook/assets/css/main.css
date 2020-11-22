@@ -462,8 +462,9 @@ h4 {
 }
 
 .text1 p {
-	font-size: 2.5vw;
-	line-height: 3vw;
+	font-size: 3vw;
+	line-height: 4vw;
+	width: 60%;
 }
 
 .survey h2 {
@@ -485,6 +486,27 @@ h4 {
 	width: 45%;
 	margin-top: 1vh;
 	margin-bottom: 6vw;
+}
+
+.int3 h2 {
+	font-size: 6vw;
+	line-height: 7vw;
+	width: 80%;
+}
+
+.img10 img{
+	width: 80%;
+	border-radius: 40px;
+}
+
+.text2 p {
+	font-size: 4vw;
+	line-height: 5vw;
+	width: 80%;
+}
+
+#videobox {
+	width: 50%;
 }
 
 }
