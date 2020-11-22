@@ -179,6 +179,12 @@ a {
 	background-color: none;
 	color: darkblue;
 	font-style: normal;
+	margin-bottom: 2vw;
+}
+
+.question2a p {
+	width: 40%;
+	text-align: left;
 }
 
 .img5 img {
@@ -282,6 +288,14 @@ img:hover {
 	font-size: 7vw;
 }
 
+.answer h2 {
+	text-align: left;
+	padding-left: 5vw;
+	font-style: normal;
+	font-size: 3vw;
+	margin-top: 1vw;
+}
+
 .btn h2 {
 	margin-left: 1px;
 	margin-top: 1px;
@@ -323,23 +337,23 @@ img:hover {
 }
 
 .page-container {
-  position: relative;
-  min-height: 15vh;
+ 	position: relative;
+  	min-height: 15vh;
 }
 
 .content-wrap {
-  padding-bottom: 1vh;  
+ 	 padding-bottom: 1vh;  
 }
 
 .footer {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 25vh;
-  background-color: navy;
-  color: white;
-  text-align: right;
+  	position: absolute;
+  	left: 0;
+  	bottom: 0;
+  	width: 100%;
+  	height: 25vh;
+  	background-color: navy;
+  	color: white;
+  	text-align: right;
 }
 
 h4 {
@@ -347,5 +361,17 @@ h4 {
 	margin-right: 5vh;
 	margin-top: 9vh;
 	margin-bottom: 0px;
+	color: white;
 }
+
+#videobox {
+	display: block;
+	height: 100%;
+	right: 20vw;
+	position: absolute;
+	top: 40%;
+	width: 50%;
+}
+
+
 
